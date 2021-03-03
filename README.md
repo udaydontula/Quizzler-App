@@ -8,6 +8,14 @@ The focus of the project is to make learning fun and productive. In this project
 - API
 
 ## Preview
-![]()
-![]()
-![]()
+**The Preview of Quizzler**
+
+![](images/quizzlerapp.png)
+
+**Preview when Answer is correct Quizzler**
+
+![](images/qizzright.png)
+
+**Preview when Answer is wrong Quizzler**
+
+![](images/quizzwrong.png)
